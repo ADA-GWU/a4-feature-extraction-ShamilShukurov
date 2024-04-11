@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/5uHNpwT-)
+## Exercise 1
+For running the program `python3 ex1.py`
+Results:
+![image](https://github.com/ADA-GWU/a4-feature-extraction-ShamilShukurov/assets/81254972/6bbbbc14-2963-4f23-83bf-ede7835545b8)
+
+
+## Exercise 2
+For running the program `python3 ex2.py`. Select at least 5 points after running the program and press `Enter`. Active contour algorithm will work afterwards.
+
+
+## Exercise 3
+For running the program `python3 ex3.py`
+
+![image](https://github.com/ADA-GWU/a4-feature-extraction-ShamilShukurov/assets/81254972/accd39db-1ae2-40bc-a0ec-a39743cf090d)
